@@ -5,6 +5,11 @@ def foo(arg):
     print(f'arg = {arg}')
 
 class Foo:
-
+  
     pass
 
+print(s)
+print(a)
+foo('quux')
+x = Foo()
+print(x)
